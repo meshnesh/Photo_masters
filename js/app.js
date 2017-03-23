@@ -12,5 +12,12 @@ $(function(){
     });
 
 });
-var vid = document.getElementById("video1");
-vid.muted = true;
+
+
+$('.carousel-client').bxSlider({
+    auto: true,
+    slideWidth: 234,
+    minSlides: 2,
+    maxSlides: 5,
+    controls: false
+});
