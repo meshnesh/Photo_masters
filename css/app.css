@@ -1210,3 +1210,10 @@ header{
 .maestroP{
     text-align: center;
 }
+.effect-sadie img{
+    border-radius: 0;
+}
+.large-4.medium-12.small-12.columns{
+    padding-left: 0;
+    padding-right: 0;
+}
