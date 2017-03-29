@@ -509,45 +509,45 @@ figure.effect-sadie:hover p {
 
 /* Begin Become a Maestro Page */
 
-.become-a-maestro{
-    height: 88vh;
-    width: auto;
-    background-image: url(../img/img-5.jpg);
-    background-position:center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-}
-.become-a-maestro-overlay{
-    position: absolute;
-/*     background: -webkit-linear-gradient(bottom, rgba(72,76,97,0) 0%, rgba(72,76,97,0.8) 75%);*/
-/*    background: linear-gradient(to top, rgba(72,76,97,0) 0%, rgba(72,76,97,0.8) 75%);*/
-    background: rgba(72, 76, 97, 0.55);
-    height: 88vh;
-    width: 100%;
-    margin: 0 auto;
-}
+/*.become-a-maestro{*/
+    /*height: 88vh;*/
+    /*width: auto;*/
+    /*background-image: url(../img/img-5.jpg);*/
+    /*background-position:center;*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: cover;*/
+    /*position: relative;*/
+/*}*/
+/*.become-a-maestro-overlay{*/
+    /*position: absolute;*/
+/*!*     background: -webkit-linear-gradient(bottom, rgba(72,76,97,0) 0%, rgba(72,76,97,0.8) 75%);*!*/
+/*!*    background: linear-gradient(to top, rgba(72,76,97,0) 0%, rgba(72,76,97,0.8) 75%);*!*/
+    /*background: rgba(72, 76, 97, 0.55);*/
+    /*height: 88vh;*/
+    /*width: 100%;*/
+    /*margin: 0 auto;*/
+/*}*/
 
-.become-a-maestro .become-a-maestro-content{
-    text-align: left;
-    padding: 38px 0;
-}
+/*.become-a-maestro .become-a-maestro-content{*/
+    /*text-align: left;*/
+    /*padding: 38px 0;*/
+/*}*/
 
-.become-a-maestro .become-a-maestro-content h3{
-    font-size: 34px;
-    text-transform: capitalize;
-    color: white;
-/*    color: black;*/
-    font-weight: 700;
-    padding: 21px;
-}
-.become-a-maestro .become-a-maestro-content p{
-    font-size: 21px;
-/*    color: #000000;*/
-     color: #fff;
-    font-weight: 500;
-    padding: 21px;
-}
+/*.become-a-maestro .become-a-maestro-content h3{*/
+    /*font-size: 34px;*/
+    /*text-transform: capitalize;*/
+    /*color: white;*/
+/*!*    color: black;*!*/
+    /*font-weight: 700;*/
+    /*padding: 21px;*/
+/*}*/
+/*.become-a-maestro .become-a-maestro-content p{*/
+    /*font-size: 21px;*/
+/*!*    color: #000000;*!*/
+     /*color: #fff;*/
+    /*font-weight: 500;*/
+    /*padding: 21px;*/
+/*}*/
 
 ./*End become a meaestro Page*/
 
@@ -1197,4 +1197,16 @@ header{
 }
 .seniorJ{
     margin-top: 96px;
+}
+.become-a-maestro {
+    width: auto;
+    background-image: url(../img/about/abt1.jpg);
+
+    height: 84vh;
+    background-size: cover;
+    padding: 8% 16px 16px;
+
+}
+.maestroP{
+    text-align: center;
 }
