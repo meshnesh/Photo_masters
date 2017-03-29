@@ -1154,3 +1154,47 @@ section.client .section-title {
 }
 /*end of footer*/
 /*End of new abouthtml section*/
+.social {
+    list-style-type: none;
+    padding: 24px 10px;
+    text-align: center;
+}
+
+.social li {
+    display: inline-block;
+    padding-right: 5%;
+}
+.byeNow{
+    color: #31383e;
+    text-align: center;
+}
+.final{
+    margin: 88px;
+    border:1px solid whitesmoke;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+header{
+    font-size: 40px;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 40px;
+    color: #4b8ffe;
+}
+.lastJ{
+    width: 70%;
+    float: left;
+    color: #31383e;
+}
+#map {
+    position: relative;
+    display: block;
+    height: 64vh;
+    width: 75vh;
+    margin-left: -10px;
+}
+.social li a:hover{
+    color: #4b8ffe;
+}
+.seniorJ{
+    margin-top: 96px;
+}
